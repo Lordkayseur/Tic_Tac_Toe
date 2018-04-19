@@ -20,6 +20,7 @@ Contact slack
 
   Miguel Sorin : @Jayware             
   Léo Deboin : @LeoD 
+  
   Leo LEGOFF : @Lordkayseur
   
   Merci bisous partout les loulous.
