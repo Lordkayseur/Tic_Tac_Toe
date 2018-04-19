@@ -18,9 +18,8 @@ Pour tester les fichiers contenus dans ce repo :
 
 Contact slack
 
-  Miguel Sorin : @Jayware             
-  Léo Deboin : @LeoD 
-  
-  Leo LEGOFF : @Lordkayseur
+ Miguel Sorin : @Jayware             
+ Léo Deboin : @LeoD 
+ Leo LEGOFF : @Lordkayseur
   
   Merci bisous partout les loulous.
